@@ -1,1 +1,15 @@
+/*
+When learning a new language, we first learn to output some message. Here, we'll start with the famous Hello World message. Now, here you are given a function to complete. Don't worry about the ins and outs of functions, just add the command (System.out.print("Hello World")) to print Hello World.
+*/
 
+class Geeks{
+    
+    // Function to print hello
+    static void printHello(){
+        
+        // Your code here
+        System.out.print("Hello World");
+        
+    }
+    
+}
